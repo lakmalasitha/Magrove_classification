@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\reaserch\\examples\\lite\\examples\\image_classification\\android\\lib_support\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Asitha\\.gradle\\caches\\transforms-2\\files-2.1\\e96dcc27d59d56843fbb673d3472463f\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\reaserch\\examples\\lite\\examples\\image_classification\\android\\lib_support\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Asitha\\.gradle\\caches\\transforms-2\\files-2.1\\e96dcc27d59d56843fbb673d3472463f\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\reaserch\\examples\\lite\\examples\\image_classification\\android\\lib_support\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Asitha\\.gradle\\caches\\transforms-2\\files-2.1\\e96dcc27d59d56843fbb673d3472463f\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\reaserch\\examples\\lite\\examples\\image_classification\\android\\lib_support\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Asitha\\.gradle\\caches\\transforms-2\\files-2.1\\e96dcc27d59d56843fbb673d3472463f\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205944806141",
+    "firebase_url": "https://mangrove-56df3.firebaseio.com",
+    "project_id": "mangrove-56df3",
+    "storage_bucket": "mangrove-56df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205944806141:android:0acac17e6dddb0e11ffc94",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.mangrove.classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205944806141-jvjd4jqlir474sf2vhiv13motqjm9gvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWKbe8VDM-c1rQn24aqUfPpApOZ8TRmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205944806141-jvjd4jqlir474sf2vhiv13motqjm9gvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
