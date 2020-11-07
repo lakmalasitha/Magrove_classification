@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="org.tensorflow.lite.examples.classification.env.FirstFragment"
+        android:name="org.research.project.examples.classification.env.FirstFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="org.tensorflow.lite.examples.classification.env.SecondFragment"
+        android:name="org.research.project.examples.classification.env.SecondFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 

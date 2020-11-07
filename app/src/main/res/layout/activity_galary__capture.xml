@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimaryDark"
-    tools:context="org.tensorflow.lite.examples.classification.Galary_Capture">
+    tools:context="org.tensorflow.lite.examples.classification.org.tensorflow.project.examples.classification.Galary_Capture">
 
     <ImageView
         android:id="@+id/select_image"

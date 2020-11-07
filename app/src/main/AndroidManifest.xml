@@ -19,13 +19,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.ImageClassification">
         <activity
-            android:name=".DetailsShow"
+            android:name="org.research.project.examples.classification.DetailsShow"
             android:label="@string/title_activity_details_show"
             android:theme="@style/AppTheme.ImageClassification.NoActionBar"></activity>
-        <activity android:name=".Galary_Capture" />
-        <activity android:name=".IntroActivity" />
-        <activity android:name=".DashBoard" />
-        <activity android:name=".MainActivity">
+        <activity android:name="org.research.project.examples.classification.Galary_Capture" />
+        <activity android:name="org.research.project.examples.classification.IntroActivity" />
+        <activity android:name="org.research.project.examples.classification.DashBoard" />
+        <activity android:name="org.research.project.examples.classification.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -33,7 +33,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ClassifierActivity"
+            android:name="org.research.project.examples.classification.ClassifierActivity"
             android:label="@string/tfe_ic_app_name"
             android:screenOrientation="portrait">
 
