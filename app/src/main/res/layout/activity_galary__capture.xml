@@ -22,21 +22,35 @@
         android:id="@+id/btncamara"
         android:layout_width="107dp"
         android:layout_height="83dp"
-        android:layout_marginBottom="132dp"
+        android:layout_marginBottom="184dp"
         android:background="@drawable/ic_baseline_local_see_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.256"
+        app:layout_constraintHorizontal_bias="0.151"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/btngalary"
         android:layout_width="107dp"
         android:layout_height="83dp"
-        android:layout_marginBottom="132dp"
+        android:layout_marginBottom="192dp"
         android:background="@drawable/ic_baseline_photo_album_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.809"
+        app:layout_constraintHorizontal_bias="0.769"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="156dp"
+        android:layout_marginTop="46dp"
+        android:layout_marginEnd="167dp"
+        android:layout_marginBottom="97dp"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btngalary" />
 </androidx.constraintlayout.widget.ConstraintLayout>

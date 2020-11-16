@@ -18,10 +18,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.ImageClassification">
+        <activity android:name="org.research.project.examples.classification.MangroveGalary"></activity>
         <activity
             android:name="org.research.project.examples.classification.DetailsShow"
             android:label="@string/title_activity_details_show"
-            android:theme="@style/AppTheme.ImageClassification.NoActionBar"></activity>
+            android:theme="@style/AppTheme.ImageClassification.NoActionBar" />
         <activity android:name="org.research.project.examples.classification.Galary_Capture" />
         <activity android:name="org.research.project.examples.classification.IntroActivity" />
         <activity android:name="org.research.project.examples.classification.DashBoard" />

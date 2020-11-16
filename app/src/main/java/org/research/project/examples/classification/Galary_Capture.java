@@ -48,7 +48,9 @@ public class Galary_Capture extends AppCompatActivity {
         galaryBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(Galary_Capture.this,"camara is clicked",Toast.LENGTH_SHORT).show();
+                Intent intent=new Intent(getApplicationContext(),MangroveGalary.class);
+                // Intent intent = new Intent(getApplicationContext(),IntroActivity.class);
+                startActivity(intent);
 
             }
         });

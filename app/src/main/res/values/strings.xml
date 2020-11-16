@@ -28,5 +28,50 @@
     <!-- Strings for On Boarding Screen -->
 
     <!--Titles-->
+    <string-array name="mangrove_category">
+        <item>Avicennia_officinalis</item>
+        <item>Lumnitzera_littorea</item>
+        <item>Lumnitzera_racemosa</item>
+        <item>Aegicerus_corniculatum</item>
+        <item>Nypa_fruiticans</item>
+        <item>Acrostichum_aureum</item>
+        <item>Rhizophora_mucronata</item>
+        <item>Rhizophora_apiculata</item>
+        <item>Bruguiera_cylindrica</item>
+        <item>Bruguiera_gymnorrhiza</item>
+        <!--        <item>Bruguier_sexangula</item>-->
+        <!--        <item>Ceriops_tagal</item>-->
+        <!--        <item>Sonneratia_alba</item>-->
+        <!--        <item>Sonneratia_caseolaris</item>-->
+        <!--        <item>Heritiera_littoralis</item>-->
+        <!--        <item>Excoecaria_agallocha</item>-->
+        <!--        <item>Xylocarpus_granatum</item>-->
+        <!--        <item>Acanthus_illicifolius</item>-->
+        <!--        <item>Scyphiphora_hydrophylacea</item>-->
+    </string-array>
+
+    <string-array name="description">
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <item>mangrove are uniqur</item>
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+        <!--            <item>mangrove are uniqur</item>-->
+
+
+    </string-array>
 
 </resources>
