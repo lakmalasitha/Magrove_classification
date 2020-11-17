@@ -60,9 +60,9 @@ public class IntroActivity extends AppCompatActivity {
 
         //fill list screen
         List<ScreemItem> mList = new ArrayList<>();
-        mList.add(new ScreemItem("What are Mangroves?","There are about 80 different species of mangrove trees. All of these trees grow in areas with low-oxygen soil, where slow-moving waters allow fine sediments to accumulate.",R.drawable.img1));
-        mList.add(new ScreemItem("Why Mangroves?","There are about 80 different species of mangrove trees. All of these trees grow in areas with low-oxygen soil, where slow-moving waters allow fine sediments to accumulate.",R.drawable.img2));
-        mList.add(new ScreemItem("How to Identify?","There are about 80 different species of mangrove trees. All of these trees grow in areas with low-oxygen soil, where slow-moving waters allow fine sediments to accumulate.",R.drawable.img3));
+        mList.add(new ScreemItem("What are Mangroves?","There are about 80 different species of mangrove trees. All of these trees grow in areas with low-oxygen soil, where slow-moving waters allow fine sediments to accumulate.",R.drawable.acanthus_illicifolius));
+        mList.add(new ScreemItem("Why Mangroves?","There are about 80 different species of mangrove trees. All of these trees grow in areas with low-oxygen soil, where slow-moving waters allow fine sediments to accumulate.",R.drawable.aegicerus_corniculatum));
+        mList.add(new ScreemItem("How to Identify?","There are about 80 different species of mangrove trees. All of these trees grow in areas with low-oxygen soil, where slow-moving waters allow fine sediments to accumulate.",R.drawable.scyphiphora_hydrophylacea));
 
 
 
