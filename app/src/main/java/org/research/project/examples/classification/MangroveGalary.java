@@ -4,13 +4,18 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 import org.tensorflow.lite.examples.classification.R;
 
 public class MangroveGalary extends AppCompatActivity {
     RecyclerView recyclerView;
     String s1[],s2[];
+    Button firebasebtn;
+
     int images[]={R.drawable.acanthus_illicifolius,R.drawable.acrostichu_aureum,R.drawable.aegicerus_corniculatum,R.drawable.avicennia_marina,R.drawable.avicennia_officinalis,R.drawable.bruguiera_cylindrica,R.drawable.bg,R.drawable.nypa_fruiticans,
             R.drawable.ceriops_tagal,R.drawable.excoecaria_agallocha,R.drawable.heritiera_littoralis,R.drawable.lumnitzera_littorea,R.drawable.lumnitzera_racemosa,R.drawable.nypa_fruiticans,R.drawable.rhizophora_mucronata,R.drawable.scyphiphora_hydrophylacea,
             R.drawable.sonneratia_alba,R.drawable.sonneratia_caseolaris,R.drawable.xylocarpus_granatum};
@@ -28,6 +33,16 @@ public class MangroveGalary extends AppCompatActivity {
         recyclerView.setHasFixedSize(true);
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+//        firebasebtn = findViewById(R.id.firebasebtn);
+
+//        firebasebtn.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent intent = new Intent(getApplicationContext(),GetFirebaseData.class);
+//                startActivity(intent);
+//            }
+//        });
 
 
     }

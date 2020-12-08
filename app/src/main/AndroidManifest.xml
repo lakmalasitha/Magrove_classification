@@ -18,7 +18,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.ImageClassification">
-        <activity android:name="org.research.project.examples.classification.MangroveGalary"></activity>
+        <activity android:name="org.research.project.examples.classification.GetFirebaseData"></activity>
+        <activity android:name="org.research.project.examples.classification.MangroveGalary" />
         <activity
             android:name="org.research.project.examples.classification.DetailsShow"
             android:label="@string/title_activity_details_show"
@@ -45,6 +46,7 @@
             <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
             <!-- </intent-filter> -->
         </activity>
+        <activity android:name="org.research.project.examples.classification.ActivityMagrove" />
 
         <provider
             android:name="androidx.core.content.FileProvider"
