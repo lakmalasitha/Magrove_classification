@@ -29,49 +29,401 @@
 
     <!--Titles-->
     <string-array name="mangrove_category">
-        <item>Avicennia_officinalis</item>
-        <item>Lumnitzera_littorea</item>
-        <item>Lumnitzera_racemosa</item>
-        <item>Aegicerus_corniculatum</item>
-        <item>Nypa_fruiticans</item>
+        <item>Acanthus_illicifolius</item>
         <item>Acrostichum_aureum</item>
-        <item>Rhizophora_mucronata</item>
-        <item>Rhizophora_apiculata</item>
+        <item>Aegicerus_corniculatum</item>
+        <item>Avicennia_officinalis</item>
         <item>Bruguiera_cylindrica</item>
         <item>Bruguiera_gymnorrhiza</item>
-        <!--        <item>Bruguier_sexangula</item>-->
-        <!--        <item>Ceriops_tagal</item>-->
-        <!--        <item>Sonneratia_alba</item>-->
-        <!--        <item>Sonneratia_caseolaris</item>-->
-        <!--        <item>Heritiera_littoralis</item>-->
-        <!--        <item>Excoecaria_agallocha</item>-->
-        <!--        <item>Xylocarpus_granatum</item>-->
-        <!--        <item>Acanthus_illicifolius</item>-->
-        <!--        <item>Scyphiphora_hydrophylacea</item>-->
+        <item>Bruguier_sexangula</item>
+        <item>Ceriops_tagal</item>
+        <item>Excoecaria_agallocha</item>
+        <item>Heritiera_littoralis</item>
+        <item>Lumnitzera_littorea</item>
+        <item>Lumnitzera_racemosa</item>
+        <item>Nypa_fruiticans</item>
+        <item>Rhizophora_apiculata</item>
+        <item>Rhizophora_mucronata</item>
+        <item>Scyphiphora_hydrophylacea</item>
+        <item>Sonneratia_alba</item>
+        <item>Sonneratia_caseolaris</item>
+        <item>Xylocarpus_granatum</item>
+
     </string-array>
 
     <string-array name="description">
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <item>mangrove are uniqur</item>
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
-        <!--            <item>mangrove are uniqur</item>-->
+        <item>(Acanthus illicifolius)</item>
+        <item>(Acrostichum aureum)</item>
+        <item>(Aegicerus corniculatum)</item>
+        <item>(Avicennia officinalis)</item>
+        <item>(Bruguiera cylindrica)</item>
+        <item>(Bruguiera gymnorrhiza)</item>
+        <item>(Bruguiera sexangula)</item>
+        <item>(Ceriops tagal)</item>
+        <item>(Excoecaria agallocha)</item>
+        <item>(Heritiera_littoralis)</item>
+        <item>(Lumnitzera littorea)</item>
+        <item>(Lumnitzera  racemosa)</item>
+        <item>(Nypa_fruiticans)</item>
+        <item>(Rhizophora_apiculata)</item>
+        <item>(Rhizophora_mucronata)</item>
+        <item>(Scyphiphora_hydrophylacea)</item>
+        <item>(Sonneratia_alba)</item>
+        <item>(Sonneratia_caseolaris)</item>
+        <item>(Xylocarpus_granatum)</item>
+    </string-array>
+
+    <string-array name="kingdom">
+        <item>plantes</item>
+        <item>no details</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+        <item>Plantae</item>
+    </string-array>
+
+    <string-array name="family">
+        <item>Acanthaceae</item>
+        <item>no details</item>
+        <item>Primulaceae</item>
+        <item>Acanthaceae</item>
+        <item>Rhizophoraceae</item>
+        <item>Bruguiera</item>
+        <item>Rhizophoraceae</item>
+        <item>Rhizophoraceae</item>
+        <item>Euphorbiaceae</item>
+        <item>Malvaceae</item>
+        <item>Combretaceae</item>
+        <item>Combretaceae</item>
+        <item>Arecaceae Subfamily: Nypoideae Griff</item>
+        <item>Rhizophoraceae</item>
+        <item>Rhizophoraceae</item>
+        <item>Rubiaceae</item>
+        <item>Lythraceae</item>
+        <item>Lythraceae</item>
+        <item>Meliaceae</item>
+    </string-array>
+
+    <string-array name="common_name">
+        <item>Holly-leaved acanthus sea holly</item>
+        <item>Karan koku</item>
+        <item>Hin kadol/ Avari Kadol/River mangrove</item>
+        <item>Indian mangrove</item>
+        <item>Malkadol</item>
+        <item>Malkadol</item>
+        <item>Malkadol</item>
+        <item>Punkanda</item>
+        <item>Telakiriya</item>
+        <item>Attona</item>
+        <item>Teruntum Merah</item>
+        <item>Kripa / Black Mangrove</item>
+        <item>Gin pol</item>
+        <item>Tall-Stilt Mangrove</item>
+        <item>Red mangrove</item>
+        <item>Chengam</item>
+        <item>Apple mangrove, Kirala</item>
+        <item>Kirala,Apple Mangrove,Crabapple mangrove</item>
+        <item>cannonball mangrove</item>
+    </string-array>
+
+    <string-array name="clade">
+        <item>Asterids</item>
+        <item>no details</item>
+        <item>Tracheophytes Angiosperms Eudicots Asterids</item>
+        <item>Tracheophytes Angiosperms Eudicots Asterids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Monocots Commelinids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Asterids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Tracheophytes Angiosperms Eudicots Rosids</item>
+        <item>Rosids</item>
+    </string-array>
+
+    <string-array name="conservation_status">
+        <item>no detail</item>
+        <item>no detail</item>
+        <item>Hin kadol/ Avari Kadol/River mangrove</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Endangered</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+        <item>Least Concern</item>
+    </string-array>
+
+    <string-array name="genus">
+        <item>Acanthus</item>
+        <item>no details</item>
+        <item>Aegiceras</item>
+        <item>Avicennia</item>
+        <item>Bruguiera</item>
+        <item>Bruguiera</item>
+        <item>Bruguiera</item>
+        <item>Ceriops</item>
+        <item>Excoecaria</item>
+        <item>Heritiera</item>
+        <item>Lumnitzera</item>
+        <item>Lumnitzera</item>
+        <item>Nypa  Steck</item>
+        <item>Rhizophora</item>
+        <item>Rhizophora</item>
+        <item>A shrub up to 3m, but in Singapore, rarely more than 2m tall. Twigs reddish when young. Bark greyish black, ridged and fissured.</item>
+        <item>Sonneratia</item>
+        <item>Sonneratia</item>
+        <item>Xylocarpus</item>
+    </string-array>
+
+    <string-array name="species">
+        <item>A. ilicifolius</item>
+        <item>No details</item>
+        <item>A. corniculatum</item>
+        <item>A. officinalis</item>
+        <item>B. cylindrica</item>
+        <item>B. gymnorhiza</item>
+        <item>B. sexangula</item>
+        <item>C. tagal</item>
+        <item>E. agallocha</item>
+        <item>H. littoralis</item>
+        <item>L.littorea</item>
+        <item>L. racemosa</item>
+        <item>N. fruticans</item>
+        <item>R. apiculata</item>
+        <item>R. mucronata</item>
+        <item>S. hydrophylacea</item>
+        <item>S. alba</item>
+        <item>S. caseolaris</item>
+        <item>X. granatums</item>
+    </string-array>
+
+    <string-array name="order">
+        <item>Scrophulariales</item>
+        <item>no details</item>
+        <item>Ericales</item>
+        <item>Lamiaes</item>
+        <item>Malpighiales</item>
+        <item>Malpighiales</item>
+        <item>Malpighiales</item>
+        <item>Malpighiales</item>
+        <item>Malpighiales</item>
+        <item>Malvales</item>
+        <item>Myrtales</item>
+        <item>Myrtales</item>
+        <item>Arecales</item>
+        <item>Malpighiales</item>
+        <item>Malpighiales</item>
+        <item>Gentianales</item>
+        <item>Myrtales</item>
+        <item>Myrtales</item>
+        <item>Sapindales</item>
+    </string-array>
+
+    <string-array name="type_of_mangrove">
+        <item>Mangrove Associated</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+        <item>True mangrove</item>
+    </string-array>
+
+    <string-array name="features_of_flower">
+        <item>no details</item>
+        <item>no details</item>
+        <item>Flowers (1-2cm) in a dense cluster of 10-20. 5 white or pale pink petals that fold back when mature, fragrant. They are rich in nectar. According to Tomlinson, from the structure of the flowers and the fact that these produce nectar and a fragrance, the plant seems to be pollinated by insects. But there are no records of flower visitors.</item>
+        <item>Inflorescence : umbel or a panicle, terminal and in the axils of the uppermost leaves.Petals:4, Yellow colour Calyx: 5 lobedSize : diameter 6-8cm, zygomorphic, sessile flowers in compact heads, 4 stamens. Larger than A. marina. Seed type: Crypto viviparous</item>
+        <item>Inflorescence : axillary, 3-flowered cyme, Petals:8, white colour, hairy outside, Calyx: 8 lobed, yellowish green, smoothSize: small flower, length 0.8-1.2cm. Seed type: viviparous</item>
+        <item>Inflorescence : Terminal, Petals:4, Yellow colour, Calyx: 5 lobed. Seed type: viviparous</item>
+        <item>Inflorescence : Petals: Yellowish brown, densely fringed with hairs,  Calyx: 10-12 lobed, yellow, mature calyx tube distinctly ribbed, each petal lobe with 0-2 apical bristles not exceeding the lobe apices. Size: 2cm long Seed type: viviparous.</item>
+        <item>Inflorescence : branched umbel with 3-4 flowers, Petals:5-6, white, emarginated, Calyx: 5 lobed, greenish yellow Size: 1cm diameter Seed type: viviparous.</item>
+        <item>Male Inflorescence : catkin, upto 7cm long, female inflorescense: mixed cyme, Petals: green and white, Calyx: yellowish green Size: diameter 0.2-0.3cm Seed type: normal seed.</item>
+        <item>Inflorescence : axillary or terminal, loose panicle,  Petals: purple and brown, Calyx: 5 lobes, reddish Size: female flower 3-7mm long, male flower 5-6mm long, unisexual flowers, both densely hairy Seed type: normal seed.</item>
+        <item>Flowers small (2-3cm) in dense bunches, bright red with five tiny petals (the stamens are much longer than the petals). The flowers are fragrant and produce lots of nectar. </item>
+        <item>Flowers are up to 1 cm length, exhibiting 5 small white petals. Fruit is fleshy and flattened while on the tree, but fibrous after floating in water</item>
+        <item>Inflorescence : spike with ahead like part at the tip bearing female flowers, and bears the male flowers below Staminate flower: peduncular and rachis bracts, bright yellow when fresh with light green stripes on both sides, 4-6mm long, similar petalsPistillate flower: lemon yellow, size: 25cm (female flower).Seed type: oviparous.</item>
+        <item>The inflorescence is axillary (leaf scar below the leaf rosette) and 2-flowered. The peduncle is  0.5-1.5 cm long and thick. The bracteoles at the base of flower are cup-shaped. They are fleshy and slightly crenate. The yellow flowers are bi­sexual and sessile. The sepal is deeply 4-lobed, coria­ceous, accrescent and reflexed in fruit. The lobes are ovate, measuring 10-14 mm x 6-8 mm, concave, acute, brown-yel­low to reddish and persistent. The receptacle is with a disk. There are 4 free petals which are lance-shaped, measuring 8-11 mm x 1.5-2 mm, membranous, hairless and early caducous. There are at most 12 stamens which are sessile, with anthers 6-7.5 mm long, acute, multi-loculate and open with a large ventral valve. The ovary is 1.5-3.5 mm long, semi-inferior, and 2-celled where the superior part is en­closed by the disk and bluntly conical. The style is 0.5-1 mm long and 2-lobed.</item>
+        <item>Creamy white flowers, few arranged in axillary heads, leathery with short thick stalks; calyx persistent</item>
+        <item>Inflorescence: dense axillary condensed cymes.Flowers tiny (0.5cm) in dense clusters about 3-4cm across. Corolla with four white curving lobes and a short pink tube. Nectar is secreted at the base of the tube which is accessible to short-tongued insects.</item>
+        <item>Flowers large 2-4cm long(10cm diameter) with 6 petals narrow white often inconspicuous, and many long white stamens that are pink at the base, forming a powder-puff shape. Stiff cup-shaped calyx with sepals broadly triangular and reddish on the inside.Flowers open during the night and are pollinated by bats.</item>
+        <item>Inflorescence : Terminal cyme solitary or few flowered on the outer pendulous twig, Petals:6, red, Calyx: tube green with 6 valvate lobes, petals alternated with calyx teeth, numerous red stamens Size: diameter 8-10cm Seed type: normal seed.</item>
+        <item>Inflorescence: an axillary thyrse up to 6 cm long, often forked with indistinct main axis.Flowers functionally unisexual, regular, 4-merous; pedicel 3–9 mm long, thickened near the calyx; calyx lobed to about the middle, lobes 1–3 mm long; petals free, oblong, 3.5–6.5 mm × 2–3 mm, creamy-white or pinkish; stamens 8, united into a tube 2–3.5 mm in diameter; disk well developed, 8-lobed, red; ovary superior, 4-celled, style short and thick, stigma large.</item>
+    </string-array>
+
+    <string-array name="features_of_fruits">
+        <item>no details</item>
+        <item>no details</item>
+        <item>Fruit long (5-8cm) cylindrical with pointed tip, usually curved. They resemble long beans, tiny bananas or horns and are light green ripening to pink or purple.</item>
+        <item>Size: 2.5-3cm long,2-2.5cm widt Colour: pericarp greenish yellow Surface: densely hairy, wrinkled, broadly ovoid, beaked or heart shape.</item>
+        <item>Size: diameter 0.5-1.0cm, length 10-15cm Colour: green to purplish green Surface: smooth, slightly ridged.</item>
+        <item>Size: diameter 1.7-2.0cm, length 20-30cm Colour: dark green to purple tinted brown Surface: smooth, cylindrical</item>
+        <item>Size: diameter 1.5-2.0cm, length 10cm Colour: dark green Surface: glabrous to slight rough, slightly ridged Capsule or berry with yellowish persistent calyx.</item>
+        <item>Size: diameter 2-3cm, length 25-30cm  Colour: brownish green Surface: rough, ridged, cotyledonary body reddish when ripe and ready to fall.</item>
+        <item>Size: 3 lobed, schizocarp (fruit like combined 3 balls), diameter 0.6cm Colour: green Surface: leathery</item>
+        <item>Size: 5-7cm long Colour: green to brown Surface: smooth Ridge on outer edge resembles a chicken’s comb, contains brown, shining, strongly keeled seeds winged on one side.</item>
+        <item>The small fruits are ribbed, corky and float, and dispersed by water. Each fruit contains one seed.</item>
+        <item>The fruits are buoyant, single-seeded green capsules which look similar to those of the native white mangrove</item>
+        <item>Size: diameter 15-20cm, flattened sideways Colour: chestnut brown Surface: smooth, shiny.</item>
+        <item>The brown fruit is an ovoid or inversely pear-shaped berry, measures 2-3.5 cm long and rather rough. The hypocotyl is cylindrical to club-shaped, measures up to 40 cm x 1.2 cm, often slightly curved, more or less blunt, smooth and shining. It is green tinged with red.</item>
+        <item>The fruit is single seeded, up to 70 mm long, which germinates while still on the tree (viviparous). It is said that its seeds do not last long in storage.</item>
+        <item>Fruit tiny (0.5cm) oblong with 6-8 ridges, first green then white. The outer layer of the fruit is fleshy with a corky inner layer. The fruit separates into two halves when ripe. Each fruit contains 4 or fewer seeds. The fruits float because of the spongy inner layer.</item>
+        <item>pear-shaped (5-7cm) leathery. The tips of the calyx lobes bend back towards the stalk. Seeds white, flattened, tiny, buoyant (due to air-filled tissues in the seed).Surface is smooth.</item>
+        <item>Size:  diamter 6m, broadly ovoid or subglobose, slightly depressed on top. Ripe fruit used to make a delicious drink Colour: green Surface: smooth, have numerous seeds.</item>
+        <item>Fruit a globose, pendulous, woody capsule 12–25 cm in diameter, weighing up to 3 kg, tardily dehiscing by 4 valves from apex, 6–20-seeded. Seeds: irregularly tetrahedral, up to 6 cm long, brown, with a corky seedcoat.Seedling with hypogeal germination, initially with scale leaves, first leaves simple.</item>
+    </string-array>
+
+    <string-array name="type_of_roots">
+        <item>Branched tap root system</item>
+        <item>no details</item>
+        <item>Roots along the soil surface are exposed to air</item>
+        <item>pencil like pneumatophores</item>
+        <item>Knee roots and buttresses.</item>
+        <item>Knee roots and small buttresses</item>
+        <item>Knee roots and small buttresses present</item>
+        <item>Thin stilt roots</item>
+        <item>Generally without any aerial growth, but very often superficial spreading horizontal roots are exposed due to water erosion during tidal flashing</item>
+        <item>Buttresses. Broad buttresses and well developed plank roots</item>
+        <item>Some may have slender knee roots</item>
+        <item>curved roots intermediate between pneumatophores and knee roots</item>
+        <item>Roots borne along the lower side of the stem, no prominent aerial roots</item>
+        <item>aerial roots branched stilt roots</item>
+        <item>distinctive aerial roots or what is also referred to as knee-roots (breathing roots)</item>
+        <item>Roots with pneumatophores (knee-roots)</item>
+        <item>pneumatophores</item>
+        <item>Conical shaped pneumatophores arising from horizontal roots, pneumatophores well developed (upto 1m)</item>
+        <item>branched ribbon-like surface roots</item>
+    </string-array>
+
+    <string-array name="leaf_arr">
+        <item>Branched tap root system</item>
+        <item>no details</item>
+        <item>Roots along the soil surface are exposed to air</item>
+        <item>pencil like pneumatophores</item>
+        <item>Knee roots and buttresses.</item>
+        <item>Knee roots and small buttresses</item>
+        <item>Knee roots and small buttresses present</item>
+        <item>Thin stilt roots</item>
+        <item>Generally without any aerial growth, but very often superficial spreading horizontal roots are exposed due to water erosion during tidal flashing</item>
+        <item>Buttresses. Broad buttresses and well developed plank roots</item>
+        <item>Some may have slender knee roots</item>
+        <item>curved roots intermediate between pneumatophores and knee roots</item>
+        <item>Roots borne along the lower side of the stem, no prominent aerial roots</item>
+        <item>aerial roots branched stilt roots</item>
+        <item>distinctive aerial roots or what is also referred to as knee-roots (breathing roots)</item>
+        <item>Roots with pneumatophores (knee-roots)</item>
+        <item>pneumatophores</item>
+        <item>Conical shaped pneumatophores arising from horizontal roots, pneumatophores well developed (upto 1m)</item>
+        <item>branched ribbon-like surface roots</item>
+    </string-array>
 
 
+    <string-array name="range">
+        <item>Asia - near the shoreline from southern India and Sri Lanka through tropical Asia to New Guinea and northern Australia</item>
+        <item>no details</item>
+        <item>widely distributed from Sri Lanka to South China through the Malay archipelago to Polynesia and northeastern Australia to New South Wales</item>
+        <item>Coasts of tropical Asia from Pakistan through to the Philippines and Australia</item>
+        <item>E. Asia - coastal areas from India and Sri Lanka through southeast Asia to New Guinea and northeast Australia</item>
+        <item>naturally from India and Sri Lanka throughout South-East Asia to New Guinea and New Britain</item>
+        <item>naturally from India and Sri Lanka throughout South-East Asia to New Guinea and New Britain</item>
+        <item>coasts from eastern Africa and the Indian Ocean islands to the Indian  and from there through tropical Asia to Australia and the Pacific. In Africa it extends as far north as the gulf . In eastern Africa it occurs along the coast of Eritrea south to Kosi Bay in South Africa, Maputo Bay in southern Mozambique and it also occurs in the Indian Ocean Islands</item>
+        <item>India ,Indo-Malesia to Australia and Pacific islands</item>
+        <item>Coastal regions, from eastern Africa, through tropical Asia to Australia and the Pacific Islands</item>
+        <item>E. Asia - southern China, India, Sri Lanka, Thailand, Cambodia, Vietnam, Malaysia, Indonesia, Philippines, New Guinea, Australia, Pacific Islands.</item>
+        <item>Cambodia,India, Indonesia, Malaysia, China, New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Vietnam, northern Australia, and on various western Pacific islands (Shu, 2007). Lumnitzera littorea is distributed in tropical Asia and Australia.</item>
+        <item>Sri Lanka through South-East Asia to North Australia.</item>
+        <item>tropical Asia, Malesian region and reaches southwards to the Tropic of Capricorn in Queensland, and eastwards as far as New Caledonia and Ponape (Micronesia)</item>
+        <item>south-east Asia, Africa, South Pacific, Australia</item>
+        <item>India, Sri Lanka and southern China to the West Pacific, New Guinea and northern Australia. In Borneo found along the coast throughout the island</item>
+        <item>Coastal areas from eastern Africa, through the Indian Ocean and tropical Asia to northern Australia and the Pacific to Vanuatu and the Solomon Isles</item>
+        <item>native to South and South-East Asia and is distributed from India and Sri Lanka up to southern China, and throughout South-East Asia to northern Australia and the western Pacific islands</item>
+        <item>Eastern tropical Africa, throughout southeast Asia to Australia and the Pacific Islands</item>
+    </string-array>
+
+    <string-array name="general_characters">
+        <item>shrub growing from 50 - 200cm tall with scarcely branched stems that often produce adventitious aerial roots</item>
+        <item>no details</item>
+        <item>Evergreen shrub or small tree growing up to about 6 metres tallBark fissured with numerous lenticels. Roots running along the soil surface</item>
+        <item>Tree or shrub, Tree to 12m tall, sometimes 22m. Bark is smooth, with lenticels, light coloured and not fissured</item>
+        <item>Bush or small tree,  Height up to 6m.</item>
+        <item>Tree,  Height up to 20m</item>
+        <item>Tree,  height up to 33m</item>
+        <item>Shrub or small tree   Height between 3-5m</item>
+        <item>Shrub or tree,  Height up to 20m Dioecious</item>
+        <item>Tree height up to 16m</item>
+        <item>Short shrub to tree up to 25m tall with a trunk 50-65cm in diameter</item>
+        <item>evergreen shrub or small tree growing up to 8 metres tall. The bole can be up to 30cm in diameter</item>
+        <item>Plant with a creeping horizontal stem</item>
+        <item>Tree and shrub height up to 10m(20-30m) and with trunk up to 50 cm in diameter</item>
+        <item>A small to medium-sized tree, 2–5 m, even up to 10 m tall, with strong apical dominance. Stem up to 400 mm in diameter, straight</item>
+        <item>no details</item>
+        <item>Tree height upto 18m. Bark is Smooth, gray, finely fissured longitudinally</item>
+        <item>Tree height up to 15m</item>
+        <item>shrub or tree that can grow from 5 to 15 metres tall, exceptionally to 20 metres</item>
+    </string-array>
+
+    <string-array name="other_characters">
+        <item>no details</item>
+        <item>no details</item>
+        <item>Much branched tree</item>
+        <item>Tree well branched, Smooth brownish brown bark Distribution : prefer low salinity. Found in lagoon fringing mangals away from the lagoon mouth.</item>
+        <item>Smaller tree than other two Bruguiera species. Not heavily branched. Distribution : restricted distribution. Found in lagoon fringing mangals in the west coast. Bark: Gray, relatively smooth</item>
+        <item>Densely spreading branches, pedicels and flowers reddish colour. Distribution : found in most of the mangroves. Bark: Dark gray or almost black, rough, lenticeled</item>
+        <item>Much branched, spreading or diffused, petioles, midribs, pedicels and flowers yellow. Distribution : occur in most of the mangals. Bark: Dark gray, rough</item>
+        <item>Tree  conical in shape, cylindrical long hanging fruit . Prefer well drained sandy substratum. Mainly found in lagoon fringing mangals. Common mangrove species. In some mangals Ceriops form a very thick single species zone. (eg: Rekawa mangal in the south coast) Bark: Reddish brown</item>
+        <item>Woody tree, perennial, partially deciduous, much branched, very dense with dark leaves and spreading branches Distribution : all around SL in lagoon fringing and riverine mangals.       Bark: Grey, fissured with poisonous milky latex Bark lenticelate, lenticel prominent on young twigs and also present in mature trunk base; mature trunk base with gall like tumerous growth</item>
+        <item>Prefer well draind soil. Occur in dryer parts of riverine and a lgoon fringing mangals. Bark: Grayish, scaly, vertically fissured</item>
+        <item>Bark dark blackish brown, deeply longitudinally fissured. Branchlets reddish or green when young, glabrous</item>
+        <item>preferring sandy or hard mud areas</item>
+        <item>Only palm species found in the mangroves. Grow close together. Often form pure sands. Freshwater loving species. Distribution : found in riverine mangals, away from river mouths where water salinity is well below the salinity level of estuaries. Occur in south and west coast mangals</item>
+        <item>Stem differentiated into nodes and internodes, much branched.Common where freshwater influence is strong. Distribution : mainly found in riverine mangroves</item>
+        <item>Rough reddish, brown to almost black bark and extending, bristled, light grey branches</item>
+        <item>found in the foreshore mud seasides of the tropical belt.The branches are weakly flattened to angled,glabrouswith nodes thickened and reduced internodes and congested nodes Bark: brownish bark</item>
+        <item>Prefer high saline water and soil. Conical pneumatophores are much shorter than S. caseolaris. Distribution Mostly found in the west coast mangals from chilaw to Puttalam lagoon and Kal[pitiya peninsula. Rare elsewhere</item>
+        <item>Freshwater loving species. Flowers open during the night and bat pollinated.Distribution : Common in the riverine mangals in the Southern coast, extending upstream along the river banks. Not common in the west coast beyond Negombo lagoon</item>
+        <item>Heartwood reddish, darkening to a deep warm brown on exposure, usually sharply demarcated from the narrow, buff-coloured to silver-grey sapwood. Grain straight or slightly interlocked. Texture fine and even. Wood with darker streaks producing attractive watered-silk figure on tangential surfaces. Growth rings distinct or indistinct.Bark: thin, smooth, scaly with irregular flakes, whitish to yellow-brown, inner bark reddish pink</item>
     </string-array>
 
 </resources>
